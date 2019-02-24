@@ -151,6 +151,10 @@ address a{
   justify-content: space-between;
 }
 
+#home #about .about-contact .follow-us a {
+  color: #1a1a1a;
+}
+
 #home #team {
   padding: 100px 0;
 }
