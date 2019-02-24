@@ -47,6 +47,10 @@ a {
   text-align: center;
 }
 
+.navbar #logo {
+  font-size: 0px;
+}
+
 .navbar .links ul {
   display: flex;
   margin-top: 15px;
@@ -81,7 +85,7 @@ address a{
 .button {
   background: #38d799;
   border-radius: 3px;
-  color: white;
+  color: #4a4a4a;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   padding: 20px 40px;
@@ -137,7 +141,8 @@ address a{
   margin-bottom: 15px;
 }
 
-#home #about h3 {
+#home #about h1 {
+  font-size: 18px;
   margin-bottom: 5px;
 }
 
